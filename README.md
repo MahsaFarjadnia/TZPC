@@ -18,7 +18,7 @@ This script generates the plots presented in the paper.
   
 ### Example 2:
 
-#### "Example2_State_Space_Model.m":
+#### "Example_2_State_Space_Model.m":
 This script computes the discrete-time system matrices used in the paper. It also includes detailed explanations of the building model.
 
 #### "Example_2_TZPC.m":
