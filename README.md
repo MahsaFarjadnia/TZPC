@@ -29,12 +29,12 @@ This script generates the plots presented in the paper.
 
 ### Prerequisites to run "Example_1_TZPC.m" and "Example_2_TZPC.m":
 - Ensure the [MPT](https://www.mpt3.org/) and [Yalmip](https://yalmip.github.io/) toolbox are installed, along with the [MOSEK](https://www.mosek.com/products/academic-licenses/) solver.
-- Add the 'Saved Workspace' file to the MATLAB path.
-- Add the 'RequiredFiles_TZPC' file to the MATLAB path.
+- Add the 'Saved Workspace' folder to the MATLAB path.
+- Add the 'RequiredFiles_TZPC' folder and its subfolders to the MATLAB path.
 
 ### Prerequisites to run "Example_1_Plots.m" and "Example_2_Plots.m":
-- Add the 'Saved Workspace' file to the MATLAB path.
-- Add the 'RequiredFiles_TZPC' file to the MATLAB path.
+- Add the 'Saved Workspace' folder to the MATLAB path.
+- Add the 'RequiredFiles_TZPC' folder and its subfolders to the MATLAB path.
   
 ## Acknowledgments
 Please note that portions of this code are derived from the [CORA](https://tumcps.github.io/CORA/) toolbox.
