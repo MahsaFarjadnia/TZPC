@@ -2,7 +2,7 @@
 This repository contains all the necessary scripts and files to reproduce the results of Example 1 and Example 2 as presented in the following conference paper:
 
 M. Farjadnia, A. Fontan, A. Alanwar, M. Molinari, and K. H. Johansson, "Robust Data-Driven Tube-Based Zonotopic Predictive Control
-with Closed-Loop Guarantees," Accepted at 63rd Conference on Decision and Control, 2024.
+with Closed-Loop Guarantees," Accepted at 63rd Conference on Decision and Control, 2024 ([Link](https://arxiv.org/abs/2409.14366) to the arXiv version).
 
 This work proposes a robust data-driven tube-based zonotopic predictive control (TZPC) approach for discrete-time linear systems, designed to ensure stability and recursive feasibility in the presence of bounded noise. The proposed approach consists of two phases. In an initial learning phase, we provide an over-approximation of all models consistent with past input and noisy state data using zonotope properties. Subsequently, in a control phase, we formulate an optimization problem, which, by integrating terminal ingredients is proven to be recursively feasible. Moreover, we prove that implementing this data-driven predictive control approach guarantees robust exponential stability of the closed-loop system.
 
