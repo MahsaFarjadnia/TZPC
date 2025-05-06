@@ -42,13 +42,14 @@ Please note that portions of this code are derived from the [CORA](https://tumcp
 ## Citation
 The referenced paper's BibTeX is as follows:
 ```sh
-@inproceedings{Farjadnia2024robust,
- title={A Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees},
- author={Mahsa Farjadnia, Angela Fontan, Amr Alanwar, Marco Molinari, and Karl Henrik Johansson},
- booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)},
- pages={-},
- year={2024},
- address={Milan, Italy}
- }
+@INPROCEEDINGS{Farjadnia2024robust,
+  author={Farjadnia, Mahsa and Fontan, Angela and Alanwar, Amr and Molinari, Marco and Johansson, Karl Henrik},
+  booktitle={2024 IEEE 63rd Conference on Decision and Control (CDC)}, 
+  title={Robust Data-Driven Tube-Based Zonotopic Predictive Control with Closed-Loop Guarantees}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={6837-6843},
+  doi={10.1109/CDC56724.2024.10886128}}
 ```
 
